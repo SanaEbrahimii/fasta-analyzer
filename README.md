@@ -36,4 +36,4 @@ Put your FASTA file in the same folder as the script, then run:
 
 ## Notes
 
-In the translation, * marks a stop codon. If the sequence length is not a multiple of 3,
+If the sequence length is not a multiple of 3, the last incomplete codon is ignored.
